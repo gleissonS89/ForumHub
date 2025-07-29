@@ -1,5 +1,7 @@
 # 🧠 FórumHub API
 
+!(https://github.com/gleissonS89/ForumHub/blob/main/logo.jpg)
+
 Bem-vindo ao FórumHub! Esta é uma API RESTful desenvolvida em **Java com Spring Boot** que simula um fórum online, 
 permitindo **criação, listagem, edição e exclusão de tópicos**, além de **autenticação com JWT**, organização com **DTOs** e documentação com **Swagger**.
 
